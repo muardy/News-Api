@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title">Name</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="news">News</string>
+    <string name="crud">Journalist Data</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="dates">//-//-//</string>
+    <string name="source">News Source</string>
+    <string name="born">Date of birth :</string>
+    <string name="jour">Journalist List</string>
+</resources>
